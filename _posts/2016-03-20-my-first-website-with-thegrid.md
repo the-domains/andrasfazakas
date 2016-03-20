@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: My name is Andras Fazakas
-datePublished: '2016-03-20T21:29:36.309Z'
-dateModified: '2016-03-20T21:29:28.034Z'
+description: "My name is Andras Fazakas and I'm a medical doctor!"
+datePublished: '2016-03-20T21:29:56.806Z'
+dateModified: '2016-03-20T21:29:47.263Z'
 title: "My first website with TheGrid\_"
 author: []
 sourcePath: _posts/2016-03-20-my-first-website-with-thegrid.md
