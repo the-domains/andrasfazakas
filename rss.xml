@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AndrasFazakas]]></title>
+        <description><![CDATA[AndrasFazakas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 09:17:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My first website with TheGrid ]]></title>
+            <description><![CDATA[<article><h1>My first website with TheGrid </h1><p>My name is Andras Fazakas</p></article>]]></description>
+            <link>undefinedmy-first-website-with-thegrid/index.html</link>
+            <guid isPermaLink="false">9897707b-5638-4bac-81dc-7da5bd67f520</guid>
+            <pubDate>Sun, 20 Mar 2016 09:17:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
