@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "My name is Andras Fazakas and I'm a medical doctor!"
-datePublished: '2016-03-21T13:54:20.224Z'
-dateModified: '2016-03-21T13:53:02.870Z'
+datePublished: '2016-03-21T14:10:09.583Z'
+dateModified: '2016-03-21T13:54:26.389Z'
 title: "My first website with TheGrid\_"
 author: []
 sourcePath: _posts/2016-03-20-my-first-website-with-thegrid.md
