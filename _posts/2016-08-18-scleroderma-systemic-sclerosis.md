@@ -1,14 +1,6 @@
 ---
-author:
-  - name: Dr. Andras Fazakas
-    url: 'https://www.youtube.com/user/NordicHealthOrg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+datePublished: '2016-08-18T21:45:37.134Z'
+isBasedOnUrl: 'https://www.youtube.com/watch?v=q7VUiab4YYI'
 keywords:
   - scleroderma
   - duration
@@ -20,8 +12,14 @@ keywords:
   - overview
   - remedies
   - mp4
-description: Andras Fazakas Nordic Health Organization Scleroderma - Systemic sclerosis
-inLanguage: en
+related: []
+author:
+  - name: Dr. Andras Fazakas
+    url: 'https://www.youtube.com/user/NordicHealthOrg'
+    avatar: {}
+via: {}
+dateModified: '2016-08-18T19:08:25.755Z'
+title: Scleroderma (Systemic sclerosis)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=q7VUiab4YYI&feature=applinks'
     type: ios
@@ -59,16 +57,24 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Scleroderma (Systemic sclerosis)
-datePublished: '2016-08-18T19:36:36.408Z'
-dateModified: '2016-08-18T19:36:35.829Z'
-via: {}
-sourcePath: _posts/2016-08-18-scleroderma-systemic-sclerosis.md
-hasPage: true
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: Andras Fazakas Nordic Health Organization Scleroderma - Systemic sclerosis
+inLanguage: en
 starred: false
-url: scleroderma-systemic-sclerosis/index.html
-_type: VideoObject
+sourcePath: _posts/2016-08-18-scleroderma-systemic-sclerosis.md
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fq7VUiab4YYI%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq7VUiab4YYI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fq7VUiab4YYI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/q7VUiab4YYI" frameborder="0" allowfullscreen></iframe> 
+
+<iframe src="https://the-grid.github.io/ed-location/?latitude=59.3333&amp;longitude=16.4833&amp;zoom=9&amp;address=Eskilstuna%2C%20S%C3%B6dermanlands%20l%C3%A4n%2C%20Sweden" style=""></iframe>
