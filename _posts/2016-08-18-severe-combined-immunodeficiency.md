@@ -63,16 +63,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/I3izRe7xl7A'
 title: Severe combined immunodeficiency
-datePublished: '2016-08-18T19:22:39.652Z'
-dateModified: '2016-08-18T19:20:52.204Z'
+datePublished: '2016-08-18T19:28:10.525Z'
+dateModified: '2016-08-18T19:28:10.024Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-severe-combined-immunodeficiency.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: severe-combined-immunodeficiency/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
