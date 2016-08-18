@@ -19,10 +19,14 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: AndrasFazakas
+name: Dr. Andras Fazakas
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Sjögren's syndrome
+    id: 1b7b48a6-d348-4d6a-8a1d-6ce7136b045a
+    type: content
 favicon: null
 purpose: []
