@@ -20,8 +20,8 @@ description: >-
   failure. T & B lymphocytes of the immune system invades the exocrine glands in
   your body. Eventually this invasion leads to ductal epithelial cell
   hyperplasia, which cause a duct obstruction.
-datePublished: '2016-08-18T19:56:04.652Z'
-dateModified: '2016-08-18T19:55:57.410Z'
+datePublished: '2016-08-18T20:00:45.567Z'
+dateModified: '2016-08-18T19:56:11.029Z'
 author:
   - name: Dr. Andras Fazakas
     url: 'https://www.youtube.com/user/NordicHealthOrg'
