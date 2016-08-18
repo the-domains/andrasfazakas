@@ -59,16 +59,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/q7VUiab4YYI'
 title: Scleroderma (Systemic sclerosis)
-datePublished: '2016-08-18T19:30:14.364Z'
-dateModified: '2016-08-18T19:30:04.493Z'
+datePublished: '2016-08-18T19:36:36.408Z'
+dateModified: '2016-08-18T19:36:35.829Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-scleroderma-systemic-sclerosis.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: scleroderma-systemic-sclerosis/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
