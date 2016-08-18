@@ -64,16 +64,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/_kWF_LCwH2M'
 title: Sjögren's syndrome
-datePublished: '2016-08-18T19:25:15.685Z'
-dateModified: '2016-08-18T19:16:43.156Z'
+datePublished: '2016-08-18T19:27:28.851Z'
+dateModified: '2016-08-18T19:27:28.366Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-sjogrens-syndrome.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: sjogrens-syndrome/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
