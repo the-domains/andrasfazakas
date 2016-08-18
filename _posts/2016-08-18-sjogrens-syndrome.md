@@ -1,14 +1,8 @@
 ---
-author:
-  - name: Dr. Andras Fazakas
-    url: 'https://www.youtube.com/user/NordicHealthOrg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - duration
   - syndrome
@@ -26,7 +20,13 @@ description: >-
   failure. T & B lymphocytes of the immune system invades the exocrine glands in
   your body. Eventually this invasion leads to ductal epithelial cell
   hyperplasia, which cause a duct obstruction.
-inLanguage: en
+datePublished: '2016-08-18T19:56:04.652Z'
+dateModified: '2016-08-18T19:55:57.410Z'
+author:
+  - name: Dr. Andras Fazakas
+    url: 'https://www.youtube.com/user/NordicHealthOrg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=_kWF_LCwH2M&feature=applinks'
     type: ios
@@ -65,11 +65,14 @@ app_links:
     namespace: google
     type: ios
 title: Sjögren's syndrome
-datePublished: '2016-08-18T19:27:28.851Z'
-dateModified: '2016-08-18T19:27:28.366Z'
 via: {}
 sourcePath: _posts/2016-08-18-sjogrens-syndrome.md
-hasPage: true
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
 url: sjogrens-syndrome/index.html
 _type: VideoObject
