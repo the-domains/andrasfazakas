@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Dr. Andras Fazakas]]></title>
         <description><![CDATA[Dr. Andras Fazakas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andrasfazakas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 19:23:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 19:25:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andrasfazakas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sjögren's syndrome]]></title>
+            <description><![CDATA[<article><h1>Sjögren's syndrome</h1><p>Andras Fazakas Sjögren's syndrome A chronic systemic inflammatory autoimmune disease that can cause death if : pulmonary infection, a lymphoma, or renal failure. T & B lymphocytes of the immune system invades the exocrine glands in your body. Eventually this invasion leads to ductal epithelial cell hyperplasia, which cause a duct obstruction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cb1ed2ac89eda0702c78803d5c396b60/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F_kWF_LCwH2M%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/_kWF_LCwH2M</link>
+            <guid isPermaLink="false">1b7b48a6-d348-4d6a-8a1d-6ce7136b045a</guid>
+            <pubDate>Thu, 18 Aug 2016 19:25:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Severe combined immunodeficiency]]></title>
-            <description><![CDATA[<article><h1>Severe combined immunodeficiency</h1><p>Andras Fazakas Severe combined immunodeficiency - A deadly combination of defects of T & B lymphocytes + Natural killer cells Its a primary immunodeficiency (inherited in the family) affecting T lymphoocytes, B lymphocytes and Natural killer cells in different combinations.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Severe combined immunodeficiency</h1><p>Andras Fazakas Severe combined immunodeficiency - A deadly combination of defects of T & B lymphocytes + Natural killer cells Its a primary immunodeficiency (inherited in the family) affecting T lymphoocytes, B lymphocytes and Natural killer cells in different combinations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf7cb85b12ccef9e6bdfe89902d2c0df/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FI3izRe7xl7A%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://youtu.be/I3izRe7xl7A</link>
             <guid isPermaLink="false">fa89ebaf-43ce-4b9c-b313-fbbbeb9da9aa</guid>
             <pubDate>Thu, 18 Aug 2016 19:22:39 GMT</pubDate>
