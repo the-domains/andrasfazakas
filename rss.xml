@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Health & Disease]]></title>
+        <description><![CDATA[Health & Disease]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 19:56:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sjögren's syndrome]]></title>
+            <description><![CDATA[<article><h1>Sjögren's syndrome</h1><p>Andras Fazakas Sjögren's syndrome A chronic systemic inflammatory autoimmune disease that can cause death if : pulmonary infection, a lymphoma, or renal failure. T & B lymphocytes of the immune system invades the exocrine glands in your body. Eventually this invasion leads to ductal epithelial cell hyperplasia, which cause a duct obstruction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cb1ed2ac89eda0702c78803d5c396b60/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F_kWF_LCwH2M%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>undefinedsjogrens-syndrome/index.html</link>
+            <guid isPermaLink="false">1b7b48a6-d348-4d6a-8a1d-6ce7136b045a</guid>
+            <pubDate>Thu, 18 Aug 2016 19:56:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
