@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Andras Fazakas
+  email: andras.fazakas@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c77db268-6ec4-48f4-8bcc-6c09eda708b4.jpg
 name: Dr. Andras Fazakas
 cta:
   domain: null
@@ -31,7 +36,8 @@ navigation:
   - name: Severe combined immunodeficiency
     id: fa89ebaf-43ce-4b9c-b313-fbbbeb9da9aa
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/820307d8-a065-43fe-bc38-216fc564eaa9.jpg
 title: Health & Disease
 description: Health is real Wealth
 purpose: []
