@@ -1,14 +1,8 @@
 ---
-author:
-  - name: Dr. Andras Fazakas
-    url: 'https://www.youtube.com/user/NordicHealthOrg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - duration
   - immunodeficiency
@@ -25,7 +19,13 @@ description: >-
   defects of T & B lymphocytes + Natural killer cells Its a primary
   immunodeficiency (inherited in the family) affecting T lymphoocytes, B
   lymphocytes and Natural killer cells in different combinations.
-inLanguage: en
+datePublished: '2016-08-18T20:00:47.663Z'
+dateModified: '2016-08-18T19:56:44.800Z'
+author:
+  - name: Dr. Andras Fazakas
+    url: 'https://www.youtube.com/user/NordicHealthOrg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=I3izRe7xl7A&feature=applinks'
     type: ios
@@ -64,11 +64,14 @@ app_links:
     namespace: google
     type: ios
 title: Severe combined immunodeficiency
-datePublished: '2016-08-18T19:28:10.525Z'
-dateModified: '2016-08-18T19:28:10.024Z'
 via: {}
 sourcePath: _posts/2016-08-18-severe-combined-immunodeficiency.md
-hasPage: true
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
 url: severe-combined-immunodeficiency/index.html
 _type: VideoObject
