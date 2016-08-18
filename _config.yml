@@ -28,5 +28,8 @@ navigation:
   - name: Sjögren's syndrome
     id: 1b7b48a6-d348-4d6a-8a1d-6ce7136b045a
     type: content
+  - name: Severe combined immunodeficiency
+    id: fa89ebaf-43ce-4b9c-b313-fbbbeb9da9aa
+    type: content
 favicon: null
 purpose: []
