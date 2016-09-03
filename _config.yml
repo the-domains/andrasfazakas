@@ -1,8 +1,19 @@
+layout_spectrum: 1
+typography_spectrum: 0.01363298250362277
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.8950585047714412
+  lightness: 0.7561236144974828
+  saturation: 0.06774701806716621
+  rhythmicContrast: 0.44780833297409117
 name: Dr. Andras Fazakas
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/820307d8-a065-43fe-bc38-216fc564eaa9.jpg
-layout_spectrum: 1
-typography_spectrum: 0.61228
 author:
   name: Andras Fazakas
   email: andras.fazakas@gmail.com
@@ -32,15 +43,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#444051'
-    - '#6c6879'
-    - '#c26833'
-    - '#161010'
-    - '#d09074'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0
-  rhythmicContrast: 1
 purpose: []
