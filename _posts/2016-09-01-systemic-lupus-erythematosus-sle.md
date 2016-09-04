@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T14:10:50.881Z'
+datePublished: '2016-09-01T14:17:40.727Z'
 sourcePath: _posts/2016-09-01-systemic-lupus-erythematosus-sle.md
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/NordicHealthOrg'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T14:10:50.162Z'
+dateModified: '2016-09-01T14:17:39.858Z'
 title: Systemic lupus erythematosus
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=o2Mzzs84cKc&feature=applinks'
