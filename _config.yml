@@ -30,11 +30,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Severe combined immunodeficiency
-    id: fa89ebaf-43ce-4b9c-b313-fbbbeb9da9aa
-    type: content
   - name: Scleroderma (Systemic sclerosis)
     id: 80eb5a87-b354-469a-a858-72e83e55efb0
+    type: content
+  - name: Severe combined immunodeficiency
+    id: fa89ebaf-43ce-4b9c-b313-fbbbeb9da9aa
     type: content
   - name: Sjögren's syndrome
     id: 1b7b48a6-d348-4d6a-8a1d-6ce7136b045a
