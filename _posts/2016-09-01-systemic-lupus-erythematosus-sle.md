@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T14:03:03.198Z'
+datePublished: '2016-09-01T14:03:09.524Z'
 sourcePath: _posts/2016-09-01-systemic-lupus-erythematosus-sle.md
 hasPage: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/NordicHealthOrg'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T14:03:02.305Z'
+dateModified: '2016-09-01T14:03:08.354Z'
 title: Systemic lupus erythematosus
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=o2Mzzs84cKc&feature=applinks'
@@ -65,7 +65,7 @@ publisher:
   domain: www.youtube.com
 description: 'Systemic Lupus Erythematosus, abbreviated as SLE.'
 inLanguage: en
-starred: true
+starred: false
 url: systemic-lupus-erythematosus-sle/index.html
 _context: 'http://schema.org'
 _type: VideoObject
@@ -96,5 +96,3 @@ I want you to remember at least one thing from this presentation. That is System
 SLICC contains clinical criteria, immunologic criteria
 
 and biopsy criteria. We need more than 4 criteria with at least 1 clinical and 1 immunologic. Or we need 1 biopsy criteria and 1 immunologic criteria. So what does these 3 words mean? Clinical, Immunologic and Biopsy?
-
-66I
