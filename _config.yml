@@ -36,14 +36,14 @@ navigation:
   - name: Amyotrophic Lateral Sclerosis (ALS)
     id: 78a379a2-c90a-4e06-ac79-4a792276696f
     type: content
+  - name: Digeorge syndrome
+    id: bc2a499b-29f9-4acf-b394-d277bf936fae
+    type: content
   - name: Bruton's X linked agammaglobulinemia
     id: a6f83040-4520-474d-a81f-a451c1581627
     type: content
   - name: Ebola
     id: ee6bdfa7-78f2-4a6f-b7df-de59cd92d054
-    type: content
-  - name: Digeorge syndrome
-    id: bc2a499b-29f9-4acf-b394-d277bf936fae
     type: content
   - name: IgA deficiency
     id: 4c6ba976-c426-4ddc-94d7-d9084d7df2d0
