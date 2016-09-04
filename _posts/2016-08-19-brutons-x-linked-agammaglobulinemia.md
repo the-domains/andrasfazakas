@@ -65,16 +65,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/aqrSPh_P3bU'
 title: Bruton's X linked agammaglobulinemia
-datePublished: '2016-08-19T02:44:48.856Z'
-dateModified: '2016-08-19T02:41:20.301Z'
+datePublished: '2016-09-01T13:28:56.538Z'
+dateModified: '2016-09-01T13:28:55.963Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-brutons-x-linked-agammaglobulinemia.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: brutons-x-linked-agammaglobulinemia/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
