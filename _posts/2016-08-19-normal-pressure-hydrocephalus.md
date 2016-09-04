@@ -64,16 +64,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/KCePhm9-GaY'
 title: Normal pressure hydrocephalus
-datePublished: '2016-08-19T02:55:53.727Z'
-dateModified: '2016-08-19T02:53:46.172Z'
+datePublished: '2016-09-01T13:28:32.209Z'
+dateModified: '2016-09-01T13:28:31.477Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-normal-pressure-hydrocephalus.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: normal-pressure-hydrocephalus/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
