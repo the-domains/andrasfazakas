@@ -60,6 +60,9 @@ navigation:
   - name: Systemic Lupus Erythematosus (SLE)
     id: a220224e-38e0-4d52-b123-0927989c508d
     type: content
+  - name: Digeorge syndrome
+    id: bc2a499b-29f9-4acf-b394-d277bf936fae
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/820307d8-a065-43fe-bc38-216fc564eaa9.jpg
 title: Health & Disease
