@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T14:03:09.524Z'
+datePublished: '2016-09-01T14:07:14.526Z'
 sourcePath: _posts/2016-09-01-systemic-lupus-erythematosus-sle.md
 hasPage: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/NordicHealthOrg'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T14:03:08.354Z'
+dateModified: '2016-09-01T14:07:13.558Z'
 title: Systemic lupus erythematosus
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=o2Mzzs84cKc&feature=applinks'
@@ -90,9 +90,18 @@ Erythematosus means reddening of the skin. Why did I show a red butterfly? Becau
 I will show you how we can find out if Emma really has SLE by diagnosing her.
 
 And then we will look at what type of medications we can give her.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5512b71b-4563-4a7c-9992-789e9500ed7a.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82b6ee6f-9464-4fc3-ad37-0b0122b1f28e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87bd477a-a68f-4489-afef-4f42a85bb37b.jpg)
 
 I want you to remember at least one thing from this presentation. That is Systemic Lupus International Collaborating Clinics, abbreviated as SLICC. SLICC is a criterion that can help in the diagnosis of SLE.
 
 SLICC contains clinical criteria, immunologic criteria
 
 and biopsy criteria. We need more than 4 criteria with at least 1 clinical and 1 immunologic. Or we need 1 biopsy criteria and 1 immunologic criteria. So what does these 3 words mean? Clinical, Immunologic and Biopsy?
+
+The synonym for clinic, is hospital. So clinical criteria stand for the symptoms, signs and lab values of a patient in the hospital.
+
+Immunology deals with the immune system that protects you from bacteria's, viruses, and parasites.
+
+Immunologic criteria are usually lab tests that detect any problem with the immune system. Biopsy means that a doctor cuts out a piece of an organ. For example, a small piece of kidney can be cut out, and then the doctor puts this piece of kidney in a microscope and looks for diseases.
