@@ -42,6 +42,9 @@ navigation:
   - name: Ebola
     id: ee6bdfa7-78f2-4a6f-b7df-de59cd92d054
     type: content
+  - name: Digeorge syndrome
+    id: bc2a499b-29f9-4acf-b394-d277bf936fae
+    type: content
   - name: IgA deficiency
     id: 4c6ba976-c426-4ddc-94d7-d9084d7df2d0
     type: content
@@ -59,9 +62,6 @@ navigation:
     type: content
   - name: Systemic Lupus Erythematosus (SLE)
     id: a220224e-38e0-4d52-b123-0927989c508d
-    type: content
-  - name: Digeorge syndrome
-    id: bc2a499b-29f9-4acf-b394-d277bf936fae
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/820307d8-a065-43fe-bc38-216fc564eaa9.jpg
