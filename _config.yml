@@ -48,6 +48,9 @@ navigation:
   - name: Systemic Lupus Erythematosus (SLE)
     id: a220224e-38e0-4d52-b123-0927989c508d
     type: content
+  - name: Normal pressure hydrocephalus
+    id: 3cd55365-7af8-42fb-b09b-3af1938e54ce
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/820307d8-a065-43fe-bc38-216fc564eaa9.jpg
 title: Health & Disease
