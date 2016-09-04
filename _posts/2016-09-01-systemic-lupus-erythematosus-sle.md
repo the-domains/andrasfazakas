@@ -63,16 +63,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=o2Mzzs84cKc'
 title: Systemic Lupus Erythematosus (SLE)
-datePublished: '2016-09-01T13:24:46.096Z'
-dateModified: '2016-09-01T13:24:38.030Z'
+datePublished: '2016-09-01T13:28:02.737Z'
+dateModified: '2016-09-01T13:28:01.958Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-01-systemic-lupus-erythematosus-sle.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: systemic-lupus-erythematosus-sle/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
