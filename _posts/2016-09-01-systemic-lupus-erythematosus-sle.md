@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T14:17:40.727Z'
+datePublished: '2016-09-01T14:21:30.908Z'
 sourcePath: _posts/2016-09-01-systemic-lupus-erythematosus-sle.md
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/NordicHealthOrg'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T14:17:39.858Z'
+dateModified: '2016-09-01T14:21:29.828Z'
 title: Systemic lupus erythematosus
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=o2Mzzs84cKc&feature=applinks'
@@ -75,6 +75,8 @@ _type: VideoObject
 # Systemic lupus erythematosus
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fo2Mzzs84cKc%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do2Mzzs84cKc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo2Mzzs84cKc%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkM1uwjAQhF8lWgmO-SOUkmIqpIon4F4ZexNbGG-0Nrj06Wslt0p7-DQ7M9LuwQ4s71gEVgJMjFPoqyqlVA5S4ZXoViq6V5N7jNaH6mk1UjmZ6dMwDmL2rzanVXvO8z-VpS8uT16zDGf5K28yXFAqg5w3c1PI0NS7rt22Xb1v99223mVpHQyl74g_UTTrZHU0YvtWQ7EgzGzQjiYK2Lw3UIT4cijgSqyRe08eP-iJPDhKvbFao88exeSc9aMAT1DMVy8BAblPumy-sPRhkoxevQREfiAcD9XyoeMfejZllA" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/540c03f6-b35b-4d35-b01b-16ff159898c7.jpg)
 
