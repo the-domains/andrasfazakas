@@ -14,16 +14,14 @@ description: >-
   Andras Fazakas IgA deficiency - Bad B cell maturation weakens the mucosal
   defense.
 app_links: []
-isBasedOnUrl: 'https://youtu.be/pkJI-lqx6IM'
 title: IgA deficiency
-datePublished: '2016-08-19T02:45:26.382Z'
-dateModified: '2016-08-19T02:44:07.999Z'
+datePublished: '2016-09-01T13:29:13.025Z'
+dateModified: '2016-09-01T13:29:12.383Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-iga-deficiency.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: iga-deficiency/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
