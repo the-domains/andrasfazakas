@@ -64,16 +64,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/ulDHXDdMvw8'
 title: Acne Vulgaris
-datePublished: '2016-08-19T02:48:24.396Z'
-dateModified: '2016-08-19T02:47:33.097Z'
+datePublished: '2016-09-01T13:28:43.150Z'
+dateModified: '2016-09-01T13:28:42.512Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-acne-vulgaris.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: acne-vulgaris/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
