@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Dr. Andras Fazakas
-    url: 'https://www.youtube.com/user/NordicHealthOrg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-09-01T14:03:03.198Z'
+sourcePath: _posts/2016-09-01-systemic-lupus-erythematosus-sle.md
+hasPage: true
 keywords:
   - fazakas
   - duration
@@ -20,12 +13,14 @@ keywords:
   - systemic
   - anti-dsdna
   - sle
-description: >-
-  Keywords DIAGNOSIS o Systemic Lupus International Collaborating Clinics o
-  Alopecia o Lungs o Pleurisy o Pleural effusions o Pleural rub o Heart o
-  Pericarditis o Pericardial pain o Pericardial effusion o Pericardial rub o
-  Ulcers o Palate o Buccal o Tongue o Nasal o Joints o Synovitis o Tenderness o
-inLanguage: en
+related: []
+author:
+  - name: Dr. Andras Fazakas
+    url: 'https://www.youtube.com/user/NordicHealthOrg'
+    avatar: {}
+via: {}
+dateModified: '2016-09-01T14:03:02.305Z'
+title: Systemic lupus erythematosus
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=o2Mzzs84cKc&feature=applinks'
     type: ios
@@ -63,16 +58,43 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Systemic Lupus Erythematosus (SLE)
-datePublished: '2016-09-01T13:28:02.737Z'
-dateModified: '2016-09-01T13:28:01.958Z'
-via: {}
-sourcePath: _posts/2016-09-01-systemic-lupus-erythematosus-sle.md
-hasPage: true
-starred: false
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: 'Systemic Lupus Erythematosus, abbreviated as SLE.'
+inLanguage: en
+starred: true
 url: systemic-lupus-erythematosus-sle/index.html
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
+# Systemic lupus erythematosus
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fo2Mzzs84cKc%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do2Mzzs84cKc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo2Mzzs84cKc%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/540c03f6-b35b-4d35-b01b-16ff159898c7.jpg)
+
+Systemic Lupus Erythematosus, abbreviated as SLE.
+
+This is a systemic disease, which means that it can affect the whole body systemically. The brain, skin, heart, lungs, kidneys, joints, the immune system, the vascular system, and the list goes on.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/149be10b-aa76-4cf6-9057-733b3e24875d.jpg)
+
+Lupus means Wolf.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fb2532e-e02b-4f46-acd8-c7cabb03fb53.png)
+
+Erythematosus means reddening of the skin. Why did I show a red butterfly? Because a very typical sign of SLE is a butterfly shaped reddening of the skin. The way I remember this disease, is to imagine a wolf that attacks a woman, and why a woman? Because 9 out 10 patients are women. So the wolf bites the face of the woman causing a butterfly shaped erythema on her face. Then the wolf continues to bite all her organs one by one, because this disease is a systemic disease, which means that it can affect all the organs systemically. Of course this disease has nothing to do with a wolf. But SLE is an autoimmune disease, which means that this woman called Emma have an immune system that attacks her own body, instead of only attacking bacterias, viruses and parasites. So Emma have an immune system that acts as a wolf inside her.
+
+I will show you how we can find out if Emma really has SLE by diagnosing her.
+
+And then we will look at what type of medications we can give her.
+
+I want you to remember at least one thing from this presentation. That is Systemic Lupus International Collaborating Clinics, abbreviated as SLICC. SLICC is a criterion that can help in the diagnosis of SLE.
+
+SLICC contains clinical criteria, immunologic criteria
+
+and biopsy criteria. We need more than 4 criteria with at least 1 clinical and 1 immunologic. Or we need 1 biopsy criteria and 1 immunologic criteria. So what does these 3 words mean? Clinical, Immunologic and Biopsy?
+
+66I
