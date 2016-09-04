@@ -64,16 +64,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/78zqhytRA54'
 title: Amyotrophic Lateral Sclerosis (ALS)
-datePublished: '2016-08-19T02:55:53.730Z'
-dateModified: '2016-08-19T02:54:14.560Z'
+datePublished: '2016-09-01T13:28:23.085Z'
+dateModified: '2016-09-01T13:28:22.500Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-amyotrophic-lateral-sclerosis-als.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: amyotrophic-lateral-sclerosis-als/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
