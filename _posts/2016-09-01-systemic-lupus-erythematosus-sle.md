@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-09-01T14:09:00.163Z'
+datePublished: '2016-09-01T14:10:50.881Z'
 sourcePath: _posts/2016-09-01-systemic-lupus-erythematosus-sle.md
+inFeed: true
 hasPage: true
 keywords:
   - fazakas
@@ -19,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/NordicHealthOrg'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T14:08:59.301Z'
+dateModified: '2016-09-01T14:10:50.162Z'
 title: Systemic lupus erythematosus
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=o2Mzzs84cKc&feature=applinks'
