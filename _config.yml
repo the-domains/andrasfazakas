@@ -36,6 +36,9 @@ navigation:
   - name: Amyotrophic Lateral Sclerosis (ALS)
     id: 78a379a2-c90a-4e06-ac79-4a792276696f
     type: content
+  - name: Bruton's X linked agammaglobulinemia
+    id: a6f83040-4520-474d-a81f-a451c1581627
+    type: content
   - name: Ebola
     id: ee6bdfa7-78f2-4a6f-b7df-de59cd92d054
     type: content
@@ -53,9 +56,6 @@ navigation:
     type: content
   - name: Systemic Lupus Erythematosus (SLE)
     id: a220224e-38e0-4d52-b123-0927989c508d
-    type: content
-  - name: Bruton's X linked agammaglobulinemia
-    id: a6f83040-4520-474d-a81f-a451c1581627
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/820307d8-a065-43fe-bc38-216fc564eaa9.jpg
