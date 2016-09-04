@@ -1,4 +1,3 @@
-layout_spectrum: 1
 typography_spectrum: 0.01363298250362277
 color:
   brandColors:
@@ -11,36 +10,37 @@ color:
   lightness: 0.7561236144974828
   saturation: 0.06774701806716621
   rhythmicContrast: 0.44780833297409117
-name: Dr. Andras Fazakas
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/820307d8-a065-43fe-bc38-216fc564eaa9.jpg
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 author:
   name: Andras Fazakas
   email: andras.fazakas@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c77db268-6ec4-48f4-8bcc-6c09eda708b4.jpg
+name: Dr. Andras Fazakas
+cta:
+  domain: null
+  bucket: null
+  version: null
 navigation:
-  - name: Sjögren's syndrome
-    id: 1b7b48a6-d348-4d6a-8a1d-6ce7136b045a
-    type: content
   - name: Severe combined immunodeficiency
     id: fa89ebaf-43ce-4b9c-b313-fbbbeb9da9aa
     type: content
   - name: Scleroderma (Systemic sclerosis)
     id: 80eb5a87-b354-469a-a858-72e83e55efb0
     type: content
+  - name: Sjögren's syndrome
+    id: 1b7b48a6-d348-4d6a-8a1d-6ce7136b045a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/820307d8-a065-43fe-bc38-216fc564eaa9.jpg
 title: Health & Disease
 description: Health is real Wealth
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 purpose: []
