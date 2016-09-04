@@ -61,16 +61,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/a3yjnjB-Vpc'
 title: Digeorge syndrome
-datePublished: '2016-08-19T02:55:42.353Z'
-dateModified: '2016-08-19T02:44:39.178Z'
+datePublished: '2016-09-01T13:29:24.741Z'
+dateModified: '2016-09-01T13:29:24.061Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-digeorge-syndrome.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: digeorge-syndrome/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
