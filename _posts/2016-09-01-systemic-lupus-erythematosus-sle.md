@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T14:07:14.526Z'
+datePublished: '2016-09-01T14:09:00.163Z'
 sourcePath: _posts/2016-09-01-systemic-lupus-erythematosus-sle.md
 hasPage: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/NordicHealthOrg'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T14:07:13.558Z'
+dateModified: '2016-09-01T14:08:59.301Z'
 title: Systemic lupus erythematosus
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=o2Mzzs84cKc&feature=applinks'
@@ -65,7 +65,7 @@ publisher:
   domain: www.youtube.com
 description: 'Systemic Lupus Erythematosus, abbreviated as SLE.'
 inLanguage: en
-starred: false
+starred: true
 url: systemic-lupus-erythematosus-sle/index.html
 _context: 'http://schema.org'
 _type: VideoObject
